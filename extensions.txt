@@ -1,0 +1,4 @@
+FF D8 FF DB:jpg
+89 50 4E 47 0D 0A 1A 0A:png
+D0 CF 11 E0 A1 B1 1A E1:doc,xls,ppt
+50 4B 03 04:zip,docx
